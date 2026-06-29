@@ -56,3 +56,8 @@ ul {
   gap: 16px;
   align-items: center;
 }
+
+.links {
+  display: flex;
+  gap: 16px;
+}
